@@ -17,8 +17,7 @@ BANNER = r"""
   / _ \ | |_) | |\___ \| '_ \| | |_| |_ / _ \ '__|
  / ___ \|  __/| | ___) | | | | |  _|  _|  __/ |   
 /_/   \_\_|  |___|____/|_| |_|_|_| |_|  \___|_|    
-
-          APISniffer v2.0 FINAL
+         
           Author: OsintMen
           Educational Use Only
 """
