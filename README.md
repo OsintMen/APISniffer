@@ -7,7 +7,6 @@
  / ___ \|  __/| | ___) | | | | |  _|  _|  __/ |   
 /_/   \_\_|  |___|____/|_| |_|_|_| |_|  \___|_|   
 ```
-![APISniffer Banner](https://via.placeholder.com/800x150.png?text=APISniffer+v3)
 
 **Author:** OsintMen  
 **Purpose:** Educational & Authorized Security Testing Only  
