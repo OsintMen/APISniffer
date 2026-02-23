@@ -1,6 +1,12 @@
 # APISniffer 
 ## Professional API Recon Framework
-
+```
+    _    ____ ___ ____        _  __  __           
+   / \  |  _ \_ _/ ___| _ __ (_)/ _|/ _| ___ _ __ 
+  / _ \ | |_) | |\___ \| '_ \| | |_| |_ / _ \ '__|
+ / ___ \|  __/| | ___) | | | | |  _|  _|  __/ |   
+/_/   \_\_|  |___|____/|_| |_|_|_| |_|  \___|_|   
+```
 ![APISniffer Banner](https://via.placeholder.com/800x150.png?text=APISniffer+v3)
 
 **Author:** OsintMen  
